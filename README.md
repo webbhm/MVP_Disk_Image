@@ -14,6 +14,7 @@ NOTE: the MVP.zip file is 4.38GB (compressed).  This is too big for Github to ac
 https://drive.google.com/drive/folders/0B-63rlluTVV5dHBxQWROM29MNUk?usp=sharing
 
 ## MVP 1.2
+https://drive.google.com/open?id=0B-63rlluTVV5YUFXb0NiQ2NUVm8
 
 This is the same functionality as 1.0 with these changes:
 
